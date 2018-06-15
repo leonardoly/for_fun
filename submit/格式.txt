@@ -1,0 +1,5 @@
+submit的数据格式
+1、train：id,score,label
+#提交表头，1,0样本，-1样本后面再看怎么处理
+
+2、test：id,score
